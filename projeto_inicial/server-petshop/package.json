@@ -28,6 +28,7 @@
     "morgan": "^1.9.1",
     "nodemon": "^1.19.0",
     "sql-template-strings": "^2.2.2",
+    "sqlite": "^4.0.17",
     "sqlite3": "^5.0.0"
   }
 }

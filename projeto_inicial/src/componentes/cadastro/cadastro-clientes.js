@@ -1,3 +1,4 @@
+import {cadastrarClientes} from '../../api/cliente.js';
 const formCadastroCliente = document.querySelector("[data-form]")
 
 formCadastroCliente.addEventListener("submit",
